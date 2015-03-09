@@ -66,6 +66,7 @@
 *backgroundtoblack*= CSS Changes relevant to making the background black
 *fontstyling*= CSS Changes relevant to making the font Lato
 *contentlayout*= CSS Changes relevant to making the sidebar/content layout allow for wide images and content
+*barfix*= CSS Changes relevant to fixing bar responsive bug
 
 */
 
